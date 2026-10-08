@@ -134,7 +134,7 @@ Si cette ligne indique `0 lines from the mod`, cela signifie qu'aucune entrée d
 
 Dans ce cas, vérifiez à nouveau l'emplacement et le contenu du fichier `fr.txt`.
 
-Si le problème persiste, n'hésitez pas à ouvrir une **Issue** sur ce dépôt GitHub.
+Si le problème persiste, n'hésitez pas à ouvrir une **Issue** sur ce dépôt GitHub ou de me contacter sur discord : **elmathos2702**
 
 ---
 
@@ -144,7 +144,7 @@ Cette traduction a été préparée à partir du catalogue de textes d'une versi
 
 Les futures mises à jour du mod peuvent introduire de nouvelles fonctionnalités et de nouveaux textes qui ne seront pas immédiatement traduits.
 
-Si vous découvrez une phrase encore en anglais, une faute d'orthographe ou une traduction étrange, vous pouvez ouvrir une Issue en précisant le texte concerné, idéalement accompagné d'une capture d'écran.
+Si vous découvrez une phrase encore en anglais, une faute d'orthographe ou une traduction étrange, vous pouvez ouvrir une Issue en précisant le texte concerné, idéalement accompagné d'une capture d'écran ou de me contacter sur discord : **elmathos2702**
 
 Vos retours aideront à améliorer la qualité de la traduction !
 
@@ -168,8 +168,8 @@ Ce dépôt est un projet de traduction communautaire indépendant.
 - Les droits du mod Worldfall restent la propriété de leurs détenteurs respectifs.
 - Le mod original est indispensable pour utiliser cette traduction.
 - Aucun fichier exécutable ou DLL du mod original n'est nécessairement distribué avec cette traduction.
+- Si vous voulez me contacter sur discord : **elmathos2702**
 
 ---
 
-Si vous voulez me contacter sur discord : **elmathos2702**
 **🇫🇷 Bon jeu à toutes et à tous, et profitez de Worldfall en français ! ⚔️🌍**
