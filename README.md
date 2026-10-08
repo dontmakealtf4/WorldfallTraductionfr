@@ -50,9 +50,7 @@ Cette traduction nécessite le mod original pour fonctionner.
 
 ### Étape 2 : Télécharger la traduction
 
-Téléchargez le fichier `fr.txt` disponible dans ce dépôt GitHub.
-
-Vous pouvez également récupérer la dernière archive dans la section **Releases**, si une version téléchargeable y est disponible.
+Téléchargez l'archive `WorldFall_TraductionFR.rar`, puis extrayez le.
 
 ### Étape 3 : Placer le fichier au bon endroit
 
@@ -173,4 +171,5 @@ Ce dépôt est un projet de traduction communautaire indépendant.
 
 ---
 
+Si vous voulez me contacter sur discord : **elmathos2702**
 **🇫🇷 Bon jeu à toutes et à tous, et profitez de Worldfall en français ! ⚔️🌍**
